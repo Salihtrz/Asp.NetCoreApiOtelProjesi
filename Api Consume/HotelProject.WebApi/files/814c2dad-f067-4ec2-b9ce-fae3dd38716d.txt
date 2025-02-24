@@ -1,0 +1,6 @@
+1-) add favorite kısmı ayarlanacak bir filmi birden çok kişi favori yapabilir ve bir kişinin birden çok favori seçtiği film olabilir (Çoka çok tablo)
+2-) Share kısmı ayarlanacak (İsteğe bağlı)
+3-) Film Detayları sekmesinde yorum yazarken oy verme yapılacak ve yorumları sayfalama yapılacak
+4-) Bir kategori silindiğinde o kategoride kayıtlı olan filmlerin kategorisini null olarak ayarlaması yapılacak
+5-) Register kısmı yapılacak
+6-) Kullanıcılar için ön panelde bir profil alanı yapılacak
