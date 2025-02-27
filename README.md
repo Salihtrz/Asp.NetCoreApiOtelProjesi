@@ -46,3 +46,23 @@
     <li>LINQ</li>
   </ul>
   <div>
+    <h2> Projeye Ait Resimler</h2>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+    <br/>
+    <img src="" />
+  </div>
+  <div>
