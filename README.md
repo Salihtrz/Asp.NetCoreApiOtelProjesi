@@ -47,22 +47,20 @@
   </ul>
   <div>
     <h2> Projeye Ait Resimler</h2>
-    <img src="" />
+    <img src="/ProjectScreenShots/localhost_5219_.png" />
     <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/localhost_5219_Booking_Index_.png" />
     <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/localhost_5219_Contact_Index_.png" />
     <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-02-27 185143.png" />
     <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-02-27 185621.png" />
     <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-02-27 185633.png" />
     <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/localhost_5219_Staff.png" />
     <br/>
-    <img src="" />
-    <br/>
-    <img src="" />
+    <img src="/ProjectScreenShots/localhost_5219_BookingAdmin_Index_.png" />
   </div>
   <div>
